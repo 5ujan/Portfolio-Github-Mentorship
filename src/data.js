@@ -1,6 +1,6 @@
 const data = {
-  name: "Bishal Panta",
-  githubLink: "https://github.com/bishal0602",
+  name: "Sujan Baskota",
+  githubLink: "https://github.com/5ujan",
   email: "MAIL_ADDRESS",
   hobbies: ["Movies", "Travelling", "Football"],
   jobTitle: "Software Engineer",
